@@ -5,7 +5,7 @@ Written by Tiyaporn Tangpradabkul (October 30, 2023)
 ## Navigation
 This GitHub repository contains following folders:
 
-* **hitrace**: capillary electrophoresis data, processed figures, and MATLAB scripts used for analyzing SHAPE reactivity of WT mini-PTC, seven Eterna PTC designs, WT mini-PTC with A- and P-site analogs, mini-PTC 1.1 with A- and P-site analogs.
+* **hitrace**: capillary electrophoresis data and MATLAB scripts used for analyzing SHAPE reactivity of WT mini-PTC, seven Eterna PTC designs, WT mini-PTC with A- and P-site analogs, mini-PTC 1.1 with A- and P-site analogs.
 
 * **ribopaint**: TIFF files and MATLAB scripts used to plot SHAPE reactivities on figures.
 
